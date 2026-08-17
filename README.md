@@ -1,5 +1,4 @@
 # 💫 About Me:
-QW-ISHCXW
 🔭 I’m currently working on a Health-tech app named Smile.<br>👯 I’m looking to collaborate on an innovative project.<br>🤝 I’m looking for help with perfecting my coding skills.<br>🌱 I’m currently learning javascript.<br>💬 Ask me about creative ideas.<br>⚡ Fun fact about me is learning new stuff at any given chance.
 
 
